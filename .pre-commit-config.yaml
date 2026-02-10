@@ -1,0 +1,6 @@
+# Ajouter à minima ruff-format pour formatter le code 
+
+# autoflake pour nettoyer le projet des imports inutiles 
+
+# ajouter des hook : check-yaml, end-od-file-fixer, trailing-whitespace, check-added-large-files
+
