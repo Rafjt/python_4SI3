@@ -5,3 +5,5 @@
 utiliser logger à la place de print
 
 prn = packet number
+
+éviter les dataclass
